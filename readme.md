@@ -19,7 +19,7 @@ To interact with the SolarX token, you can deploy the smart contract on the Poly
 - **Mint Tokens:** Only addresses with the `MINTER_ROLE` can mint new tokens.
 - **Burn Tokens:** Only the address of `advisors` can burn a limited amount of tokens.
 
-**Note** - **[SolarX team]**: We will run in two blockchains, polygon blockchain and xchain of SOLARX blockchain. For example, if a user request withdraw of 100, from XHCAIN to send to the POLYGON BLOCKCHAIN the mint will be functionalize on polygon chain and if the max supply is 1000, it will add 100$ more dollars to the max supply. However, the total max supply will be fixed and wont change even if the users transfer from one blockchain to the other.
+**Note** - **[SolarX team]**: We will run in two blockchains, polygon blockchain and x chain of SOLARX blockchain. For example, if a user request withdraw of 100, from X CHAIN to send to the POLYGON BLOCKCHAIN the mint will be functionalize on polygon chain and if the max supply is 1000, it will add 100$ more dollars to the max supply. However, the total max supply will be fixed and wont change even if the users transfer from one blockchain to the other.
 
 Coins are minted on the receiving chain when transferred from one chain to another and burned on the sending chain, helping maintain a consistent coin supply and ensuring the integrity of the overall network. It provides a mechanism for users to seamlessly transfer and utilize the SOLX coin across both chains while mitigating risks associated with any potential disruptions.
 
